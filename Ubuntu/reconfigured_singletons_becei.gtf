@@ -1,0 +1,4 @@
+##gff-version 2
+##source-version rtracklayer 1.60.0
+##date 2023-09-22
+CSP29.scaffold83_cov175	rtracklayer	sequence_feature	1000004	1001235	.	.	.	seq_id "becei_CSP29.scaffold83_cov175"; length 1232

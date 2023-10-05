@@ -1,0 +1,12 @@
+"","seq_id","seqnames","start","end","length","Orthogroup"
+"1","bovis CBOVI.ctg00008_chrIV","CBOVI.ctg00008_chrIV",459314,460865,1552,"OG0012236"
+"2","becei CSP29.scaffold83_cov175","CSP29.scaffold83_cov175",1000004,1001235,1232,"OG0012236"
+"3","panamensis CSP28.scaffold685_cov78","CSP28.scaffold685_cov78",137213,138421,1209,"OG0012236"
+"4","inopinata Sp34_Chr4","Sp34_Chr4",6915326,6917873,2548,"OG0012236"
+"5","elegans IV","IV",7983802,7987183,3382,"OG0012236"
+"6","remanei IV","IV",17222393,17223804,1412,"OG0012236"
+"7","latens scaffold_139","scaffold_139",175965,177415,1451,"OG0012236"
+"8","latens scaffold_139","scaffold_139",177583,177609,27,NA
+"9","tribulationis CSP40.scaffold00189","CSP40.scaffold00189",34996,37199,2204,"OG0012236"
+"10","briggsae IV","IV",11499566,11501799,2234,"OG0012236"
+"11","nigoni CM008512.1","CM008512.1",12851320,12853378,2059,"OG0012236"

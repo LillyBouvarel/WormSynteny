@@ -1,0 +1,4 @@
+##gff-version 2
+##source-version rtracklayer 1.60.0
+##date 2023-09-22
+CSP40.scaffold00189	rtracklayer	sequence_feature	34996	37199	.	.	.	seq_id "tribulationis_CSP40.scaffold00189"; length 2204

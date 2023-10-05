@@ -1,0 +1,4 @@
+##gff-version 2
+##source-version rtracklayer 1.60.0
+##date 2023-09-22
+Scaffold629	rtracklayer	sequence_feature	19019732	19023114	.	.	.	seq_id "tropicalis_Scaffold629"; length 3383

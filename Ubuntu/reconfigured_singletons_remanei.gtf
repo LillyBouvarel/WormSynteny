@@ -1,0 +1,4 @@
+##gff-version 2
+##source-version rtracklayer 1.60.0
+##date 2023-09-22
+IV	rtracklayer	sequence_feature	17222393	17223804	.	.	.	seq_id "remanei_IV"; length 1412

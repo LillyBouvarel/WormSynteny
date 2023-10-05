@@ -1,0 +1,4 @@
+##gff-version 2
+##source-version rtracklayer 1.60.0
+##date 2023-09-22
+CBOVI.ctg00008_chrIV	rtracklayer	sequence_feature	459314	460865	.	.	.	seq_id "bovis_CBOVI.ctg00008_chrIV"; length 1552

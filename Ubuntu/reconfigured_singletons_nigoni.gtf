@@ -1,0 +1,4 @@
+##gff-version 2
+##source-version rtracklayer 1.60.0
+##date 2023-09-22
+CM008512.1	rtracklayer	sequence_feature	12851320	12853378	.	.	.	seq_id "nigoni_CM008512.1"; length 2059
